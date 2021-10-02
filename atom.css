@@ -1,0 +1,28 @@
+#headline {
+    background-color: lightgrey;
+    text-align: center;
+}
+img {
+  border: 7px solid #ABC;
+  border-radius: 4px;
+  padding: 3px;
+  width: 300px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#textunderImage {
+    text-align: center;
+}
+#Yeehaw {
+    color: lime;
+}
+#linegreen {
+    color: lime;
+}
+#img {
+    background-color: grey;
+}
+#middle {
+    background-color: rgb(192, 187, 187);
+}
